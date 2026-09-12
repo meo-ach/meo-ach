@@ -104,7 +104,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meo-ach&theme=dracula&background=0D1117&ring=FF69B4&fire=FFB6C1&currStreakLabel=BD93F9&sideLabels=FFB6C1&currStreakNum=FF69B4&sideNums=BD93F9&dates=FFB6C1" height="170" alt="Nidhi's GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=meo-ach&theme=dracula&background=0D1117&ring=FF69B4&fire=FFB6C1&currStreakLabel=BD93F9&sideLabels=FFB6C1&currStreakNum=FF69B4&sideNums=BD93F9&dates=FFB6C1" height="165" alt="Nidhi's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meo-ach&layout=compact&title_color=ff69b4&text_color=e0e0e0&bg_color=0D1117&border_color=ff69b4" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meo-ach&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=e0e0e0&bg_color=0D1117&border_color=ff69b4" height="165" alt="Nidhi's GitHub Stats" />
 </p>
 
 ---
