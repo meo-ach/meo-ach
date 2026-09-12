@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌷 Nidhi Naik
+# Nidhi Naik
 
 ### Electronics & Computer Engineering Student 💻⚡
 
