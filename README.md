@@ -88,14 +88,12 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-bd93f9?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/PyTorch-ff69b4?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-2d1b2d?style=for-the-badge&logo=opencv&logoColor=ffb6c1" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/KiCAD-bd93f9?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCAD" />
 </p>
 
 ### 🛠️ Tools & Operating Systems
 <p>
   <img src="https://img.shields.io/badge/Git-ff69b4?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-2d1b2d?style=for-the-badge&logo=github&logoColor=ffb6c1" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-bd93f9?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/VS%20Code-ff69b4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
