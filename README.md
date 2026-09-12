@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Nidhi Naik — Edge AI & Hardware Enthusiast" />
+  <img src="banner.svg" width="100%" alt="Nidhi Naik — Edge AI & Hardware Enthusiast" />
 </div>
 
 <br />
@@ -38,17 +38,13 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="./assets/cat.svg" width="230" style="border-radius:14px;" alt="Cat coding at a laptop" />
-
-<br /><br />
-
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=15&duration=2500&pause=800&color=FFB6C1&center=true&vCenter=true&width=280&lines=building+with+%E2%9C%A8;fueled+by+cat+naps+%F0%9F%90%BE;dreaming+in+neon+%F0%9F%8E%80" alt="Cute animated text" />
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## Tech Stack & Skills
 
@@ -93,7 +89,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## GitHub Analytics
 
@@ -101,7 +97,7 @@
   <img src="https://streak-stats.demolab.com/?user=meo-ach&theme=dracula&background=15111f&ring=FF79C6&fire=FFB6C1&currStreakLabel=BD93F9&sideLabels=FFB6C1&currStreakNum=FF79C6&sideNums=BD93F9&dates=FFB6C1&border=bd93f9&border_radius=14&hide_border=false" alt="Nidhi's total contributions, current streak, and longest streak" />
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <p align="center">
   <b>˚₊‧꒰ა Thanks for visiting my corner of GitHub, pspspsp ໒꒱ ‧₊˚</b>
