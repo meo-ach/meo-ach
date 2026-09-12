@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**meo-ach/meo-ach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌷 Nidhi Naik
 
-Here are some ideas to get you started:
+### Electronics & Computer Engineering Student 💻⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*curious mind • creative soul • always building ♡*
+
+🌸 AI & Technology &nbsp; • &nbsp; ⚡ Electronics &nbsp; • &nbsp; 💻 Programming
+
+---
+
+### 🎀 A little about me
+
+🎓 Electronics & Computer Engineering  
+📚 CGPA — 9.0  
+🌊 Research Intern — National Institute of Oceanography  
+🏆 SIH Internal Winner — Software & Hardware  
+🌱 Learning something new every day
+
+---
+
+### 💻 Skills
+
+`C/C++` · `Java` · `SQL` · `HTML` · `CSS`
+
+---
+
+### 🌷 Let's Connect
+
+[LinkedIn](YOUR_LINKEDIN_LINK)
+
+♡ *Thanks for stopping by!* ♡
+
+</div>
