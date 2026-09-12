@@ -12,8 +12,7 @@
 
 ### 🎀 A little about me
 
-🎓 Electronics & Computer Engineering  
-📚 CGPA — 9.0  
+🎓 Electronics & Computer Engineering   
 🌊 Research Intern — National Institute of Oceanography  
 🏆 SIH Internal Winner — Software & Hardware  
 🌱 Learning something new every day
