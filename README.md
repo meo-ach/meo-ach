@@ -1,12 +1,12 @@
 <div align="center">
   <img src="banner.svg" width="100%" alt="Nidhi Naik — Edge AI & Hardware Enthusiast" />
-
-  <br /><br />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=16&duration=2500&pause=800&color=FFB6C1&center=true&vCenter=true&width=400&lines=building+with+%E2%9C%A8;fueled+by+cat+naps+%F0%9F%90%BE;dreaming+in+neon+%F0%9F%8E%80" alt="Cute animated text" />
 </div>
 
 <br />
+
+<table border="0" width="100%">
+<tr>
+<td width="62%" valign="top">
 
 ### Hello, I'm Nidhi 👋
 
@@ -21,18 +21,31 @@
 
 <br />
 
-<div align="center">
-  <a href="mailto:23ec31@aitdgoa.edu.in">
-    <img src="https://img.shields.io/badge/Email-23ec31%40aitdgoa.edu.in-ff79c6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/nidhi-naik-71006a288">
-    <img src="https://img.shields.io/badge/LinkedIn-Nidhi%20Naik-bd93f9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/meo-ach">
-    <img src="https://img.shields.io/badge/GitHub-meo--ach-2d1b2d?style=for-the-badge&logo=github&logoColor=ffb6c1" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Approved%20by-🐾%20cats-ff79c6?style=for-the-badge" alt="Cat approved" />
-</div>
+<p>
+<a href="mailto:23ec31@aitdgoa.edu.in">
+<img src="https://img.shields.io/badge/Email-23ec31%40aitdgoa.edu.in-ff79c6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/nidhi-naik-71006a288">
+<img src="https://img.shields.io/badge/LinkedIn-Nidhi%20Naik-bd93f9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/meo-ach">
+<img src="https://img.shields.io/badge/GitHub-meo--ach-2d1b2d?style=for-the-badge&logo=github&logoColor=ffb6c1" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/Approved%20by-🐾%20cats-ff79c6?style=for-the-badge" alt="Cat approved" />
+</p>
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="190" style="border-radius: 12px;" alt="Coding Cat GIF" />
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=15&duration=2500&pause=800&color=FFB6C1&center=true&vCenter=true&width=260&lines=building+with+%E2%9C%A8;fueled+by+cat+naps+%F0%9F%90%BE;dreaming+in+neon+%F0%9F%8E%80" alt="Cute animated text" />
+
+</td>
+</tr>
+</table>
 
 <img src="divider.svg" width="100%" alt="" />
 
@@ -90,7 +103,7 @@
 <img src="divider.svg" width="100%" alt="" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/200.gif" width="140" alt="Cute cat GIF" />
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/200.gif" width="130" alt="Cute cat GIF" />
   <br /><br />
   <b>˚₊‧꒰ა Thanks for visiting my corner of GitHub, pspspsp ໒꒱ ‧₊˚</b>
 </p>
