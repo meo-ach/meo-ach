@@ -22,10 +22,10 @@
 
 ˚₊‧꒰ა *curious mind • creative soul • always building* ໒꒱‧₊˚
 
-- **🎓 Degree:** B.E. Electronics & Computer Engineering @ Agnel Institute
+- **🎓 Degree:** B.E. Electronics & Computer Engineering @ Agnel Institute Engineering and Management
 - **🔬 Research:** Research Intern — National Institute of Oceanography
 - **🏆 Hackathons:** SIH Internal Winner — Software & Hardware
-- **🧠 Focus Areas:** Hardware Logic + Edge AI + Full-Stack Systems
+- **🧠 Focus Areas:** Hardware Logic + AI + Full-Stack Systems
 - **🌸 Currently exploring:** Intelligent hardware, computer vision, and delightful interfaces
 - **⚡ Fun fact:** I love turning tiny ideas into real, working prototypes
 
