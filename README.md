@@ -90,7 +90,7 @@
   <img src="https://img.shields.io/badge/OpenCV-2d1b2d?style=for-the-badge&logo=opencv&logoColor=ffb6c1" alt="OpenCV" />
 </p>
 
-### 🛠️ Tools & Operating Systems
+### 🛠️ Tools
 <p>
   <img src="https://img.shields.io/badge/Git-ff69b4?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-2d1b2d?style=for-the-badge&logo=github&logoColor=ffb6c1" alt="GitHub" />
@@ -104,18 +104,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meo-ach&show_icons=true&theme=rose_pine" height="165" alt="Nidhi's GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meo-ach&theme=dracula&background=0D1117&ring=FF69B4&fire=FFB6C1&currStreakLabel=BD93F9" height="165" alt="Nidhi's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meo-ach&layout=compact&theme=rose_pine" height="165" alt="Nidhi's top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meo-ach&theme=dracula&background=0D1117&ring=FF69B4&fire=FFB6C1&currStreakLabel=BD93F9&sideLabels=FFB6C1&currStreakNum=FF69B4&sideNums=BD93F9&dates=FFB6C1" height="170" alt="Nidhi's GitHub streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&height=50&lines=Keep+creating%2C+keep+learning%2C+keep+shining+%E2%9C%A8;Code+with+curiosity+%E2%80%A2+Build+with+heart+%F0%9F%8C%B8;See+you+among+the+stars+%F0%9F%8E%80" alt="Sparkling sign-off quote" />
+  <font color="#ff69b4" size="4"><b>✨ Keep creating • Code with curiosity • Build with heart 🌸</b></font>
 </p>
 
 <p align="center">
