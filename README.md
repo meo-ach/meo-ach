@@ -1,77 +1,41 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=32&pause=1200&color=FF69B4&center=true&vcenter=true&width=550&height=80&lines=%E2%9C%A8+NIDHI+NAIK+%E2%9C%A8;%F0%9F%8E%80+curious+mind+%E2%80%A2+creative+soul+%F0%9F%8E%80;%F0%9F%8C%B8+always+building+cute+things+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52310-8f66-4c60-84a8-627702f254f1.gif" width="100%" height="20px" />
-</p>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🎀 ✨ ELECTRONICS & COMPUTER ENGINEERING ✨ 🎀</h3>
-      <p><i>˚₊‧꒰ঌ curious mind • creative soul • always building ໒꒱‧₊˚</i></p>
-      <br/>
-      <p>🎓 <b>Degree:</b> B.E. Electronics & Computer Engineering @ Agnel Institute ✨</p>
-      <p>🌊 <b>Research:</b> Research Intern — <i>National Institute of Oceanography</i> 🎀</p>
-      <p>🏆 <b>Hackathons:</b> SIH Internal Winner — <i>Software & Hardware</i> ✨</p>
-      <p>🌱 <b>Focus:</b> Hardware Logic + Edge AI + Full-Stack Systems 🎀</p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZqOGVmcWVqdWtkOHp1MXdyZnIydWhsNWRxbmVpdHExYnk0MmxvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C21GGDOpKT6Z4VuXyn/giphy.gif" width="100%" alt="Cute meowing pixel cat" />
-    </td>
-  </tr>
-</table>
+# 🌷 Nidhi Naik
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52310-8f66-4c60-84a8-627702f254f1.gif" width="100%" height="20px" />
-</p>
+### Electronics & Computer Engineering Student 💻⚡
 
-<h3>✨ 🎀 TECH & SKILLS 🎀 ✨</h3>
+*curious mind • creative soul • always building ♡*
 
-<table>
-  <tr>
-    <td align="right" width="22%"><b>🎀 LANGUAGES</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C%2B%2B-FFB6C1?style=for-the-badge&logo=cplusplus&logoColor=181825" />
-      <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=181825" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right" width="22%"><b>✨ FRONTEND</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=181825" />
-      <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right" width="22%"><b>🌸 HARDWARE & AI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Electronics-FFB6C1?style=for-the-badge&logo=microchip&logoColor=181825" />
-      <img src="https://img.shields.io/badge/Edge_AI-FF69B4?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-  </tr>
-</table>
+🌸 AI & Technology &nbsp; • &nbsp; ⚡ Electronics &nbsp; • &nbsp; 💻 Programming
 
-<br/>
+---
 
-<h3>🎀 ✨ STATS & VIBES ✨ 🎀</h3>
+### 🎀 A little about me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meo-ach&show_icons=true&theme=rose_pine&bg_color=181825&title_color=f5c2e7&icon_color=f5c2e7&text_color=cdd6f4" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meo-ach&theme=rose_pine&background=181825&ring=f5c2e7&fire=f5c2e7&currStreakLabel=f5c2e7" width="48%" />
-</p>
+🎓 Electronics & Computer Engineering  
+📚 CGPA — 9.0  
+🌊 Research Intern — National Institute of Oceanography  
+🏆 SIH Internal Winner — Software & Hardware  
+🌱 Learning something new every day
 
-<p align="center">
-  <a href="https://linkedin.com/in/nidhi-naik-71006a288">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <i>✨ 🎀 Thanks for stopping by! 🎀 ✨</i>
-</p>
+### 💻 Skills
+
+`C/C++` · `Java` · `SQL` · `HTML` · `CSS`
+
+---
+
+### 🌷 Let's Connect
+
+<a href="https://www.linkedin.com/in/nid-hi-naik-71006a288">
+  <img src="https://img.shields.io/badge/LinkedIn-♡-pink?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+♡ *Thanks for stopping by!* ♡
+
+</div>
