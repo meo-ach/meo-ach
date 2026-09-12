@@ -106,20 +106,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meo-ach&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff69b4&text_color=ffb6c1&icon_color=bd93f9&border_color=ff69b4" height="170" alt="Nidhi's GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meo-ach&hide_border=true&background=0D1117&ring=FF69B4&fire=FFB6C1&currStreakLabel=BD93F9&sideLabels=FFB6C1&currStreakNum=FF69B4&sideNums=BD93F9&dates=FFB6C1" height="170" alt="Nidhi's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meo-ach&show_icons=true&theme=rose_pine" height="165" alt="Nidhi's GitHub statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meo-ach&theme=dracula&background=0D1117&ring=FF69B4&fire=FFB6C1&currStreakLabel=BD93F9" height="165" alt="Nidhi's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meo-ach&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ff69b4&text_color=ffb6c1&border_color=ff69b4" height="170" alt="Nidhi's top languages" />
-</p>
-
----
-
-## 🐍 Contribution Magic
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meo-ach/meo-ach/output/github-contribution-grid-snake.svg" alt="Animated contribution graph snake" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meo-ach&layout=compact&theme=rose_pine" height="165" alt="Nidhi's top languages" />
 </p>
 
 ---
