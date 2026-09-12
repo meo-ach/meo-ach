@@ -12,12 +12,14 @@
 
 ˚₊‧꒰ა *curious mind • creative soul • always building* ໒꒱‧₊˚
 
-- 🐾 **Degree:** B.E. Electronics & Computer Engineering @ Agnel Institute of Engineering and Management
-- 🐾 **Research:** Research Intern — National Institute of Oceanography
-- 🐾 **Hackathons:** SIH Internal Winner — Software & Hardware
-- 🐾 **Focus areas:** Hardware logic + AI + full-stack systems
-- 🐾 **Currently exploring:** Intelligent hardware, computer vision, and delightful interfaces
-- 🐱 **Cat status:** professional lap-warmer supervisor, 24/7 on call
+<table cellpadding="4" cellspacing="0" border="0">
+<tr><td valign="top">🐾</td><td valign="top"><b>Degree:</b></td><td>B.E. Electronics & Computer Engineering @ Agnel Institute of Engineering and Management</td></tr>
+<tr><td valign="top">🐾</td><td valign="top"><b>Research:</b></td><td>Research Intern — National Institute of Oceanography</td></tr>
+<tr><td valign="top">🐾</td><td valign="top"><b>Hackathons:</b></td><td>SIH Internal Winner — Software &amp; Hardware</td></tr>
+<tr><td valign="top">🐾</td><td valign="top"><b>Focus areas:</b></td><td>Hardware logic + AI + full-stack systems</td></tr>
+<tr><td valign="top">🐾</td><td valign="top"><b>Currently exploring:</b></td><td>Intelligent hardware, computer vision, and delightful interfaces</td></tr>
+<tr><td valign="top">🐱</td><td valign="top"><b>Cat status:</b></td><td>professional lap-warmer supervisor, 24/7 on call</td></tr>
+</table>
 
 <br />
 
@@ -53,7 +55,13 @@
 
 <div align="center">
 
+<table border="0" width="100%">
+<tr>
+<td align="center" width="50%" valign="top">
+
 **Languages**
+
+<br />
 
 <img src="https://img.shields.io/badge/C%2B%2B-ff79c6?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=2d1b2d" alt="Python" />
@@ -62,9 +70,12 @@
 <img src="https://img.shields.io/badge/Verilog-2d1b2d?style=for-the-badge&logoColor=ffb6c1" alt="Verilog" />
 <img src="https://img.shields.io/badge/SQL-bd93f9?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
-<br /><br />
+</td>
+<td align="center" width="50%" valign="top">
 
 **Frontend & Systems**
+
+<br />
 
 <img src="https://img.shields.io/badge/React-ff79c6?style=for-the-badge&logo=react&logoColor=white" alt="React" />
 <img src="https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=2d1b2d" alt="HTML5" />
@@ -72,9 +83,16 @@
 <img src="https://img.shields.io/badge/Tailwind-ff79c6?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Node.js-2d1b2d?style=for-the-badge&logo=nodedotjs&logoColor=ffb6c1" alt="Node.js" />
 
-<br /><br />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<br />
 
 **Hardware & Edge AI**
+
+<br />
 
 <img src="https://img.shields.io/badge/Arduino-ff79c6?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 <img src="https://img.shields.io/badge/ESP32-ffb6c1?style=for-the-badge&logo=espressif&logoColor=2d1b2d" alt="ESP32" />
@@ -82,13 +100,22 @@
 <img src="https://img.shields.io/badge/PyTorch-ff79c6?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/OpenCV-2d1b2d?style=for-the-badge&logo=opencv&logoColor=ffb6c1" alt="OpenCV" />
 
-<br /><br />
+</td>
+<td align="center" width="50%" valign="top">
+
+<br />
 
 **Tools**
+
+<br />
 
 <img src="https://img.shields.io/badge/Git-ff79c6?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-2d1b2d?style=for-the-badge&logo=github&logoColor=ffb6c1" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS%20Code-ff79c6?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -107,3 +134,6 @@
   <br /><br />
   <b>˚₊‧꒰ა Thanks for visiting my corner of GitHub, pspspsp ໒꒱ ‧₊˚</b>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:15111f,50:2d1b2d,100:bd93f9&height=90&section=footer" width="100%" alt="" />
+
